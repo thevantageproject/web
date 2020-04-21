@@ -1,7 +1,8 @@
-Site settings
-# language:               "en"
+# Site settings
+language:               "en"
 title:                  "The Vantage Project"
 description:            "We help daring entrepreneurs build vantage"
+google-verification:    "XClNz4rZr5JJ4Caeh1_ywN2E74ZNj4NGt45o1wnqloU"
 
 # Handling Reading
 include:
@@ -12,7 +13,7 @@ include:
 exclude:
   - ".DS_Store"
   - "blog"
-#   - "/assets/"
+  # - "/assets/"
   - "bower.json"
   - "bower_components"
   - "composer.json"
@@ -42,7 +43,7 @@ incremental:      true
 
 # Serving
 # url: http://127.0.0.1.xip.io:3000
-url: https://www.thevantageproject.com
+url:            "https://www.thevantageproject.com"
 # url: https://thevantageproject.github.io/web
 # baseurl:        "" # does not include hostname
 
