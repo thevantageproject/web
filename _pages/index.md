@@ -28,7 +28,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 	        <!-- <li><a href="https://meetings.hubspot.com/aditya16" class="button">Let's talk</a></li> -->
 	<!--         <li><a href="{{site.url}}/blog" class="dbc">Blog</a></li> -->
 	        <li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
-	        <li><a href="{{site.url}}/playbook" class="dbc">Playbook</a></li>
+	        <li><a href="https://playbook.thevantageproject.com/" class="dbc">Playbook</a></li>
 	        <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
 	        <!-- <li><a href="{{site.url}}/x" class="dbc">X</a></li> -->
 	      </ul>
