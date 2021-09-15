@@ -14,9 +14,9 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 			<div class="cell large-offset-3 large-3 medium-offset-2 medium-4 small-8 small-offset-2">
 				<a href="{{site.url}}">
 					<div class="grid-x grid-padding-x">
-						<div class="small-3 cell np">
+<!-- 						<div class="small-3 cell np"> -->
 <!-- 							<img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.6em;"> -->
-						</div>
+<!-- 						</div> -->
 						<div class="small-9 cell">
 							<h1 class="sans2 bkc f-2x" style="line-height:1;">Holon <br> Research</h1>
 						</div>
