@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: bare
-title: Capital + Growth
+title:
 <!-- image: bg2.jpg -->
 description: We help daring entrepreneurs build Vantage. for Vantage is the highest yield leverage available. 
 ---
@@ -15,7 +15,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 				<a href="{{site.url}}">
 					<div class="grid-x grid-padding-x">
 						<div class="small-3 cell np">
-							<img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.6em;">
+<!-- 							<img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.6em;"> -->
 						</div>
 						<div class="small-9 cell">
 							<h1 class="sans2 bkc f-2x" style="line-height:1;">Holon <br> Research</h1>
@@ -239,7 +239,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 						<div class="bold bkc f-1-25x">Prastut Kumar</div>
 						<p class="nm">Rational builder + Bits hacker. Built high output execution pipelines for multiple technology businesses. </p>
 						<p class="xs-ws-top">Insatiably curious. Likes to connect dots by combining several disparate fields</p>
-						<!-- <p class="xs-ws-top">And something more</p> -->
+						<!-- <p class="xs-ws-top">And something more</p> 
 						</div>
 					</div>
 					<div class="grid-x grid-padding-x">
