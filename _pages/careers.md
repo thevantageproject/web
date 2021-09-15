@@ -18,7 +18,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 						</div>
 <div class="small-5 shrink cell">
 							<a href="{{site.url}}">
-								<h2 class="sans2 bkc" style="line-height:1;">The <br> Vantage <br>Project</h2>
+								<h2 class="sans2 bkc" style="line-height:1;">Holon <br>Research</h2>
 							</a>
 						</div>
 <div class="small-4 cell" style="border-left: 1px solid #dedede;">
@@ -45,7 +45,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<p class="b-ws-top">Families are structured for companionship. We are structured like a sports team; <span class="bkc f-1-25x">Built to Win.</span> </p> -->
 				<h2 class="m-ws-top">We hire, develop and cut to ensure champions in every position.</h2>
 				<h4 class=" bc">In most companies, mediocrity is adequate.</h4>
-				<h4 class=" bc">At TVP, living life uninspired gets an intervention.</h4>
+				<h4 class=" bc">Here, living life uninspired gets an intervention.</h4>
 			</div>
 			<div class="small-12 medium-10 large-6 cell large-offset-3 medium-offset-2">
 				<p class="">For us, the cost of having adequate in any position is simply too large, when we could have extraordinary. We work hard to ensure that all individuals are operating at peak performance. That's our edge.</p>
@@ -56,7 +56,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		<div class="grid-x align-center">
 			<div class="large-6 cell b-ws-top">
 				<h4>Who are we.</h4>
-					<p>The Vantage project is the base protocol that enables the next generation of entrepreneurs to build their startups faster. We tilt the odds in favor of entrepreneurs by offering a lower risk, high growth and high yield path to building companies without having to depend on external capital. Sometimes we act as investors in existing businesses but more often we do so ourselves, with someone from our team (usually multiple) choosing to chase their entrepreneurial dreams. </p>
+					<p>The Vantage project is the base protocol that enables the next generation of entrepreneurs to build their startups faster. We tilt the odds in favor of entrepreneurs by offering a lower risk, high growth and high yield path to building companies without having to depend on external capital. Sometimes we help other existing businesses but more often we do so ourselves, with someone from our team (usually multiple) choosing to chase their entrepreneurial dreams. </p>
 					<div class="s-ws-top">Founded: <span class="bold bkc">2019</span> <span class="scolor2 s2">(earlier Mutiny Labs)</span></div>
 					<!-- <div>Team Size: <span class="bold bkc">8</span></div> -->
 					<!-- <div>Avg. team size of our portfolio: <span class="bold bkc">72</span></div> -->
