@@ -39,13 +39,13 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 		<div class="grid-x">
 			<div class="small-12 medium-10 large-8 large-offset-3 medium-offset-2 cell b-ws-top b-ws-top-p">
 				<div class="f-2x bold dbc nm">A home for the Rational Problem Solvers of the world</div>
-				<div class="f-1-25x">Seek wealth, not status. </div>
+				<div class="f-1-25x">that seek wealth, not status. </div>
 <!-- 				<h2 class="xs-ws-top bc bold">Capital + Growth</h2> -->
 			</div>
 		</div>
 		<div class="grid-x">
 			<div class="small-12 medium-10 medium-offset-2 large-6 large-offset-3 cell m-ws-top m-ws-bottom">
-				<p class="bkc f-1-25x">For seed stage entrepreneurs looking for 10x profitable growth in 12 months.</p>
+<!-- 				<p class="bkc f-1-25x">For seed stage entrepreneurs looking for 10x profitable growth in 12 months.</p> -->
 				<!-- <p class="s-ws-top">The future is beautiful. It is abundant. And it is for everyone. We believe that we must do all that we can to accelerate it. And in this case, more is less. We must help as many entrepreneurs push forward as we can. And that is what we have set out to do.</p> -->
 				<p class="nm s-ws-top-p dbc bold f-1-25x">We intervene with:</p>
 				<ol>
@@ -54,7 +54,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 						We help you build your growth engines, once product market fit is established.</li>
 					<li class="s-ws-top">
 						<h4 class="bkc">Design</h4>
-						When success isn't designed, it is left upto chance.</li>
+						When success isn't designed, it is left upto chance. Not optimal strategy.</li>
 				</ol>
 			</div>
 		</div>
