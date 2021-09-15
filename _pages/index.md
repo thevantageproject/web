@@ -226,7 +226,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 			</div>
 		</div>			
 	</div>
-	<div class="grid-container">
+<!-- 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="small-12 medium-10 medium-centered large-6 cell b-ws-top">
 				<h3 class="">People behind the thought process</h3>
@@ -255,7 +255,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	<!-- <div class="grid-x">
 		<div class="small-12 medium-10 medium-centered large-6 cell cell text-center small-centered b-ws-top b-ws-bottom">
 			<div class="f-2x bkc bold">We can help</div>
