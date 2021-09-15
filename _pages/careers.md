@@ -144,8 +144,8 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="large-6 cell s-ws-top">
-				<h4>Life at The Vantage Project</h4>
-				<p>We are currently based in Delhi, India and follow a distributed team structure. <br> HQ at our beautiful office with open lawns (and hopefully with a pool soon) at Qutub Institutional Area and distributed workspaces at-location for our portfolio companies. </p>
+<!-- 				<h4>Life at The Vantage Project</h4> -->
+<!-- 				<p>We are currently based in Delhi, India and follow a distributed team structure. <br> HQ at our beautiful office with open lawns (and hopefully with a pool soon) at Qutub Institutional Area and distributed workspaces at-location for our portfolio companies. </p> -->
 				<!-- <div>Recommended Read: <a class="btn" href="{{site.url}}/playbook">The Playbook</a></div> -->
 			</div>
 		</div>
