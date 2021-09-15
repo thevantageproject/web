@@ -11,11 +11,11 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		<div class="grid-x">
 			<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-8 small-offset-2 cell s-ws-top">
 				<div class="grid-x grid-padding-x">
-						<div class="small-3 cell np">
+<!-- 						<div class="small-3 cell np">
 							<a href="{{site.url}}">
 								<img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.25em">
 							</a>
-						</div>
+						</div> -->
 <div class="small-5 shrink cell">
 							<a href="{{site.url}}">
 								<h2 class="sans2 bkc" style="line-height:1;">Holon <br>Research</h2>
