@@ -18,7 +18,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 							<img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.6em;">
 						</div>
 						<div class="small-9 cell">
-							<h1 class="sans2 bkc f-2x" style="line-height:1;">The <br> Vantage <br>Project</h1>
+							<h1 class="sans2 bkc f-2x" style="line-height:1;">Holon <br> Research</h1>
 						</div>
 					</div>
 				</a>
@@ -39,8 +39,8 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 		<div class="grid-x">
 			<div class="small-12 medium-10 large-8 large-offset-3 medium-offset-2 cell b-ws-top b-ws-top-p">
 				<div class="f-2x bold dbc nm">A home for the Rational Problem Solvers of the world</div>
-				<div class="f-1-25x">We invest in entrepreneurs that seek wealth, not status. </div>
-				<h2 class="xs-ws-top bc bold">Capital + Growth</h2>
+				<div class="f-1-25x">Seek wealth, not status. </div>
+<!-- 				<h2 class="xs-ws-top bc bold">Capital + Growth</h2> -->
 			</div>
 		</div>
 		<div class="grid-x">
@@ -51,10 +51,10 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 				<ol>
 					<li class="s-ws-top">
 						<h4 class="bkc">Growth</h4>
-						We help you build your growth engines, once product market fit is established. Our portfolio companies usually grow 10x in 12 months, profitably.</li>
+						We help you build your growth engines, once product market fit is established.</li>
 					<li class="s-ws-top">
-						<h4 class="bkc">Capital</h4>
-						We put our money where our mouth is and set you up on a path where this is the only capital you'll ever "need". And hence, raising further capital is a "choice"; and one that's yours.</li>
+						<h4 class="bkc">Design</h4>
+						When success isn't designed, it is left upto chance.</li>
 				</ol>
 			</div>
 		</div>
@@ -71,7 +71,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 		</div>
 		<div class="grid-x align-center">
 			<div class="small-12 medium-10 medium-centered large-6 cell m-ws-top s-ws-bottom">
-				<h3 class="nm">We do so with capital, state of mind and execution.</h3>
+				<h3 class="nm">We do so with state of mind, strategy and execution.</h3>
 				<!-- <p class="f-1-25x bc">We are your unfair advantage, in a world where success is a race against the moving average.</p> -->
 				<!-- <p class="bc f-1-25x">Seed stage. $0.25 million per bet per year. <br> 10x profitable growth in 12 months.</p> -->
 			</div>
@@ -116,7 +116,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="small-12 medium-10 medium-centered large-6 cell m-ws-top">
-				<h3 class=" nm">We chase hyper growth opportunities that are profitable today.</h3>
+				<h3 class=" nm">We look only at hyper growth opportunities that are profitable today.</h3>
 				<p class="f-1-25x">Guided by the Market, driven by Technology and blessed by Compounding.</p>
 			<h3 class=" b-ws-top">We are different</h3>
 			<p class="bkc f-1-25x">We are built on a foundation of betting on people, playing for integrity and existing in a state of service. </p>
