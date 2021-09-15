@@ -45,7 +45,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 		</div>
 		<div class="grid-x">
 			<div class="small-12 medium-10 medium-offset-2 large-6 large-offset-3 cell m-ws-top m-ws-bottom">
-				<p class="bkc f-1-25x">Seed stage.<br>$25k per bet. <br> 10x profitable growth in 12 months.</p>
+				<p class="bkc f-1-25x">For seed stage entrepreneurs looking for 10x profitable growth in 12 months.</p>
 				<!-- <p class="s-ws-top">The future is beautiful. It is abundant. And it is for everyone. We believe that we must do all that we can to accelerate it. And in this case, more is less. We must help as many entrepreneurs push forward as we can. And that is what we have set out to do.</p> -->
 				<p class="nm s-ws-top-p dbc bold f-1-25x">We intervene with:</p>
 				<ol>
