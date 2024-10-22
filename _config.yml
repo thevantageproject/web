@@ -1,7 +1,7 @@
 # Site settings
 language:               "en"
-title:                  "Holon Research"
-description:            "We help daring entrepreneurs build vantage"
+title:                  "The Vantage Project"
+description:            "Helping daring entrepreneurs build vantage"
 google-verification:    "XClNz4rZr5JJ4Caeh1_ywN2E74ZNj4NGt45o1wnqloU"
 
 # Handling Reading
@@ -43,7 +43,7 @@ incremental:      true
 
 # Serving
 # url: http://127.0.0.1.xip.io:3000
-url:            "https://holonresear.ch"
+url:            "https://www.thevantageproject.com/"
 # url: https://thevantageproject.github.io/web
 # baseurl:        "" # does not include hostname
 
